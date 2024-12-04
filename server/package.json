@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "TAIRONE, VIU PROFESSOR? ESSE CODIGO É OPEN SOURCE DO SENHOR KKKK Ele antes era sobre empregado e agora é sobre membros de comunidade",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1"
+  }
+}
